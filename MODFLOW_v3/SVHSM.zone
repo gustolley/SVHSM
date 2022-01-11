@@ -1,0 +1,39 @@
+# MODFLOW Zone (ZON) Package
+# Data set created 2021-10-03 using MODFLOW Pre-Processing.R
+#     LITH
+#     0 = Inactive Cell
+#     1 = Aquifer Sediments, Sand and Gravel
+#     2 = Aquifer Sediments, Silty Clayey Sand and Gravel
+#     3 = Aquifer Sediments, Sandy Gravelly Silt and Clay
+#     4 = Aquifer Sediments, Silt and Clay
+#     5 = Aquifer Sediments, Tuff
+#     6 = Aquifer Sediments, No Data
+#     7 = Loyalton Fault
+#     8 = Grizzly Valley Fault
+#
+#
+12     ! Number of zone matrices to read in 
+LITHO1
+OPEN/CLOSE  .\zones\L1_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 1
+LITHO2
+OPEN/CLOSE  .\zones\L2_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 2
+LITHO3
+OPEN/CLOSE  .\zones\L3_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 3
+LITHO4
+OPEN/CLOSE  .\zones\L4_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 4
+LITHO5
+OPEN/CLOSE  .\zones\L5_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 5
+LITHO6
+OPEN/CLOSE  .\zones\L6_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 6
+LITHO7
+OPEN/CLOSE  .\zones\L7_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 7
+LITHO8
+OPEN/CLOSE  .\zones\L8_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 8
+LITHO9
+OPEN/CLOSE  .\zones\L9_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 9
+LITHO10
+OPEN/CLOSE  .\zones\L10_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 10
+LITHO11
+OPEN/CLOSE  .\zones\L11_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 11
+LITHO12
+OPEN/CLOSE  .\zones\L12_zones.txt  1  (FREE)  -1     ! Lithology Zones for layer 12
