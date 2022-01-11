@@ -1,0 +1,11 @@
+jtf @								
+Landcover_id	Landcover_Name	IrrFlag	ET_Flag	IrrSWC	IrrMonStart	IrrDayStart	IrrMonEnd	IrrDayEnd	RootDepth	IrrEff_Flood	IrrEff_WL	IrrEff_CP	Kc_Mult
+1	Alfalfa_Irrigated	TRUE	TRUE	0.35	3	25	8	31	@RD_Alf_Irr@	@Fld_IE_Alf@	@WL_IE_Alf@	@CP_IE_Alf@	@KcMltAlfIrr@
+2	Grain_Irrigated	TRUE	TRUE	0.35	3	16	7	10	@RD_Grn_Irr@	@Fld_IE_Grn@	@WL_IE_Grn@	@CP_IE_Grn@	@KcMltGrnIrr@
+3	Pasture_Irrigated	TRUE	TRUE	0.35	4	15	10	15	@RD_Pstr_Irr@	@Fld_IE_Pstr@	@WL_IE_Pstr@	@CP_IE_Pstr@	@KcMltPstrIrr@
+4	Native_Vegetation	FALSE	TRUE	0	0	0	0	0	@RD_NatVeg@	0	0	0	@KcMltNatVeg@
+5	Urban_Barren	FALSE	FALSE	0	0	0	0	0	@RD_Barren@	0	0	0	1
+6	Water	FALSE	TRUE	0	0	0	0	0	@RD_Water@	0	0	0	@KcMltWater@
+7	Alfalfa_Non-Irrigated	FALSE	TRUE	0	0	0	0	0	@RD_Alf_NI@	0	0	0	@KcMltAlfNI@
+8	Grain_Non-Irrigated	FALSE	TRUE	0	0	0	0	0	@RD_Grn_NI@	0	0	0	@KcMltGrnNI@
+9	Pasture_Non-Irrigated	FALSE	TRUE	0	0	0	0	0	@RD_Pstr_NI@	0	0	0	@KcMltPstrNI@

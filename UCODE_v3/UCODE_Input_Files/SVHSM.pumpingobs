@@ -1,0 +1,22 @@
+BEGIN Observation_Data Table
+  NROW=18 NCOL=3 COLUMNLABELS
+  ObsName  GroupName  ObsValue
+  Ag_Pumping_WY_2003  Est_Ag_GW  8580605
+  Ag_Pumping_WY_2004  Est_Ag_GW  11129324
+  Ag_Pumping_WY_2005  Est_Ag_GW  7901495
+  Ag_Pumping_WY_2006  Est_Ag_GW  7741230
+  Ag_Pumping_WY_2007  Est_Ag_GW  10112296
+  Ag_Pumping_WY_2008  Est_Ag_GW  9484966
+  Ag_Pumping_WY_2009  Est_Ag_GW  5856960
+  Ag_Pumping_WY_2010  Est_Ag_GW  12121517
+  Ag_Pumping_WY_2011  Est_Ag_GW  6227326
+  Ag_Pumping_WY_2012  Est_Ag_GW  11314790
+  Ag_Pumping_WY_2013  Est_Ag_GW  14951247
+  Ag_Pumping_WY_2014  Est_Ag_GW  14893875
+  Ag_Pumping_WY_2015  Est_Ag_GW  16786816
+  Ag_Pumping_WY_2016  Est_Ag_GW  12970186
+  Ag_Pumping_WY_2017  Est_Ag_GW  8601252
+  Ag_Pumping_WY_2018  Est_Ag_GW  9785960
+  Ag_Pumping_WY_2019  Est_Ag_GW  9218689
+  Ag_Pumping_WY_2020  Est_Ag_GW  10135753
+END Observation_Data

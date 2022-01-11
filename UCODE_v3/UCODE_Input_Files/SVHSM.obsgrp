@@ -1,0 +1,9 @@
+BEGIN	Observation_Groups	Table			
+	NROW=5	NCOL=5	COLUMNLABELS		
+	GroupName	Statistic	StatFlag	PlotSymbol	UseFlag
+	Est_Ag_GW	0.05	CV	1	yes
+	Heads	1	SD	2	yes
+	UMFFR_low	0.1	CV	3	yes
+	UMFFR_med	0.2	CV	4	yes
+	UMFFR_high	0.4	CV	5	yes
+END	Observation_Groups				
